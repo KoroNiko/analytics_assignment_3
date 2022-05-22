@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+spark/
+jdk-11.0.14.1+1-jre_win/
+spark-3.2.1-bin-hadoop2.7/
+winutils/
